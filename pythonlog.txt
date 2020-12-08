@@ -1,0 +1,19 @@
+commit 7f4cbb93b5cf8cd135fc517849cdef3adece11f0
+Author: winfrednyoroka <winfredgatua13@gmail.com>
+Date:   Mon Dec 7 15:56:21 2020 +0300
+
+    added new files on python and data analytics
+
+commit ab526ea48ef015adecda802959c719532097e562
+Author: Winfred Gatua <40457085+winfrednyoroka@users.noreply.github.com>
+Date:   Mon Dec 7 15:06:31 2020 +0300
+
+    Update README.md
+    
+    added some python modules and packages for use in data analysis
+
+commit b63c44213e800b51fee88f2c0dd818578b3eced2
+Author: Winfred Gatua <40457085+winfrednyoroka@users.noreply.github.com>
+Date:   Mon Dec 7 15:05:20 2020 +0300
+
+    Initial commit
